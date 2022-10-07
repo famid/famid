@@ -12,21 +12,6 @@
 
 </p>
 
-
-[//]: # ( <h3 align="left">Connect with me:</h3>)
-
-[//]: # (<p align="left">)
-
-[//]: # (  <a href="https://www.linkedin.com/in/ashik-ahmad-jaber-993207143/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ashik ahmad jaber" height="30" width="40" /></a>)
-
-[//]: # (  <a href="https://twitter.com/@ash1kjaber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@ash1kjaber" height="30" width="40" /></a>)
-
-[//]: # (  <a href="https://codepen.io/ahmadjaber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ahmadjaber" height="30" width="40" /></a>)
-
-[//]: # (  <a href="https://codesandbox.com/ahmadjaber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="ahmadjaber" height="30" width="40" /></a>)
-
-[//]: # (</p>)
-
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Famid&show_icons=true&locale=en&theme=react" ></a>
 </p>
@@ -34,27 +19,14 @@
 <p align='center'>
   🧰 Tools & Languages<br/><br/>
   <img src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=#8892BF" />
-
-[//]: # (  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />)
-[//]: # (  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />)
   <img src="https://img.shields.io/badge/Laravel-fff?style=for-the-badge&logo=laravel&logoColor=red" />
   <img src="https://img.shields.io/badge/Python-fff?style=for-the-badge&logo=python&logoColor=" />
-
-[//]: # (  <img src="https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=vuedotjs&logoColor=61DAFB" />)
-
-[//]: # (  <img src="https://img.shields.io/badge/nuxt.js-000000?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />)
-[//]: # (  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />)
-[//]: # (  <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />)
   <img src="https://img.shields.io/badge/MySql-316192?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-[//]: # (  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />)
-
-[//]: # (  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />)
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:mdali2016.227@gmail.com'>ahsanulhoque721@gmail.com</a>
+  📫 How to reach me: <a href='mailto:ahsanulhoque721@gmail.com'>ahsanulhoque721@gmail.com</a>
 </p>
 
 <br />
@@ -193,6 +165,6 @@
 </p>
 -->
 
-[//]: # ( <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammad1745&show_icons=true&locale=en&layout=compact" alt="mohammad" /></p>)
+[//]: # ( <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Famid&show_icons=true&locale=en&layout=compact" alt="famid" /></p>)
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Famid&show_icons=true&locale=en&theme=react" alt="mohammad" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Famid&show_icons=true&locale=en&theme=react" alt="famid" /></p>
