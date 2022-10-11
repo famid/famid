@@ -167,4 +167,4 @@
 
 [//]: # ( <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Famid&show_icons=true&locale=en&layout=compact" alt="famid" /></p>)
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Famid&show_icons=true&locale=en&theme=react" alt="famid" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=famid&show_icons=true&locale=en&theme=react" alt="famid" /></p>
