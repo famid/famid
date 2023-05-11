@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahsanul Hoque Famid 👨‍💻</h1>
 
 <p align="center">
-  A Software Developer. Enjoy working with Laravel, Python.
+  A Software Developer. Enjoy working with JavaScript, Laravel, Python.
 </p>
 
 <p align='center'>
