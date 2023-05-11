@@ -14,10 +14,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Famid&show_icons=true&locale=en&theme=react" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   🧰 Tools & Technologies
 </p>
 
@@ -43,28 +39,42 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Famid&theme=react" alt="Contributions" />
+</p>
+
+<p align="center">
   💬 Ask me about Laravel, Django, NestJS, or anything related to web development.
 </p>
 
 <p align="center">
-  ⚡ Fun Fact: "Motivation is what gets you started but habit is what keeps you going
+  ⚡ Fun Fact: "Motivation is what gets you started but habit is what keeps you going."
 </p>
+
 <p align="center">
   📫 How to reach me: <a href="mailto:ahsanulhoque@gmail.com">ahsanulhoque@gmail.com</a>
 </p>
+
 <br />
+
 <details>
   <summary>👨‍💻 What I'm Currently Up To...</summary>
-        🌱 I'm currently working with the NestJS framework and exploring MongoDB as a database. <br/>
-        👯 I'm open to collaborating on open-source projects. <br/>
-        💬 Feel free to ask me about Laravel, Django, NestJS, or anything related to web development. <br/>
-        🥅 My goals for the near future include contributing more to open-source projects and expanding my knowledge in software development. <br/>
-        ⚡ Fun fact: I enjoy learning new technologies and finding creative solutions to problems.
+  <p>
+    🌱 I'm currently working with the NestJS framework and exploring MongoDB as a database. <br />
+    👯 I'm open to collaborating on open-source projects. <br />
+    💬 Feel free to ask me about Laravel, Django, NestJS, or anything related to web development. <br />
+    🥅 My goals for the near future include contributing more to open-source projects and expanding my knowledge in software development. <br />
+    ⚡ Fun fact: I enjoy learning new technologies and finding creative solutions to problems.
+  </p>
 </details>
+
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Famid&show_icons=true&locale=en&theme=react" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Famid&layout=compact&langs_count=8&theme=react" alt="Top Languages" />
 </p>
+
+<br />
+
 <p align="center">Thanks for visiting my profile! 😄</p>
-```
+
+
